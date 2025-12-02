@@ -32,6 +32,11 @@ img {
     margin-top: 2rem;
     line-height: 1.4;
 }
+.heading-large {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
 /*ヘッダー
 ----------------------*/
 .page-header {
@@ -68,4 +73,16 @@ img {
 }
 .about p {
     margin-bottom: 3rem;
+}
+.page-title,
+.heading-large {
+    font-size: 3rem;
+    text-align: center;
+}
+.page-title {
+    margin-top: 2rem;
+    line-height: 1.4;
+}
+.heading-large {
+    margin-bottom: 1rem;
 }
