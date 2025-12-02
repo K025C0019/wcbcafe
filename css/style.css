@@ -100,3 +100,9 @@ img {
 .heading-large {
     margin-bottom: 1rem;
 }
+/*フッター
+-----------------------*/
+.info {
+    width: 100%
+    max-width: 544px
+}
