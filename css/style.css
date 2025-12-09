@@ -103,6 +103,21 @@ img {
 /*フッター
 -----------------------*/
 .info {
-    width: 100%
-    max-width: 544px
+    width: 100%;
+    max-width: 544px;
+    margin: auto;
+    padding: 0 1.5ren;
+    border-spacing: 0;
+}
+.info th,
+.info td{
+    border-bottom: 1px solid #c9c2bc;
+}
+.info th{
+    text-align: left;
+    font-weight:normal;
+    padding: 1ren;
+}
+.info td{
+    padding: 1ren 0;
 }
